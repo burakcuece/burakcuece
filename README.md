@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Burak Cüce
 
---------------------------------------------------
+---------------------------------
 
+![](https://komarev.com/ghpvc/?username=burakcuece&color=blue&style=flat)
 
 <!--
 **burakcuece/burakcuece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
